@@ -114,3 +114,9 @@
 - [Nmap](https://www.youtube.com/playlist?list=PLBf0hzazHTGM8V_3OEKhvCM9Xah3qDdIx)
 - [Information Gathering](https://www.youtube.com/playlist?list=PLBf0hzazHTGPx4_jgz6wOJoj4cijSv1wW)
 
+#### Cheat Sheets 
+- [Nmap](https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blte37ba962036d487b/5eb08aae26a7212f2db1c1da/NmapCheatSheetv1.1.pdf)
+- [Google Dorking](https://www.sans.org/security-resources/GoogleCheatSheet.pdf?msc=Cheat+Sheet+Blog)
+- [Recon-ng v5](https://geekwire.eu/recon-ng-v5-tutorial/)
+- [Maltego](https://www.farsightsecurity.com/assets/media/download/DNSDB%20Maltego%20User's%20Guide.pdf)
+- [Unicronscan](https://hsploit.com/unicornscan-port-scanning-tutorial/)
