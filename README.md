@@ -4,9 +4,9 @@
 
 * [**General Stuff**](#general-stuff)
 
-* [**Pre-Engagement**](#pre-engagement)
+* [**Scoping Phase**](#scoping-phase)
 
-* [**Reconnaissance**](#reconnaissance-phase)
+* [**Reconnaissance**](#reconnaissance)
 
 * [**Vulnerability Assessment**](#Vulnerability-Assessment)
 
@@ -71,7 +71,7 @@
 - **SANS CDI: Cyber Defense Initiative** - Thanks to SANS’s position as one of the biggest players in information security training and certification, the CDI conference draws a healthy crowd. This is where the Netwars Tournament of Champions takes place.
 
 
-### Pre-Engagement
+### Scoping Phase
 
 #### Articles/Research Papers
 - [Scoping a pentest](https://blog.pentesterlab.com/scoping-f3547525f9df)
@@ -82,4 +82,35 @@
 #### Tutorials
 - [Pentest Walkthrough - Scoping & Planning](https://www.youtube.com/watch?v=FlaQmrf63-A)
 - [The Rules of Engagement For Performing Penetration Testing](https://www.youtube.com/watch?v=xuuj9hQYlcs)
+
+
+### Reconnaissance 
+
+#### Articles/Research Papers 
+- [Penetration Testing: Intelligence Gathering](https://resources.infosecinstitute.com/penetration-testing-intelligence-gathering/)
+- [Penetration Testing Introduction: Scanning & Reconnaissance](https://medium.com/cyberdefendersprogram/penetration-testing-introduction-scanning-reconnaissance-f865af0761f)
+- [Passive Reconnaissance](https://www.sciencedirect.com/topics/computer-science/passive-reconnaissance)
+- [Reconnaissance and Social Engineering Risks as Effects of Social Networking](http://www.katinamichael.com/research/2017/7/18/reconnaissance-and-social-engineering-risks-as-effects-of-social-networking)
+- [Importance of Reconnaissance in Pentesting](https://www.octogence.com/blog/reconnaissance/)
+- [Google Dorking](https://securitytrails.com/blog/google-hacking-techniques)
+
+#### Tools 
+
+- [CHECKUSERNAMES](https://checkusernames.com/) - CheckUserNames is an online username checker that lets type in any username and check its availability across top 45 social networking sites.
+- [';--have i been pwned?](https://haveibeenpwned.com/) - It helps in checking if you have an account that has been compromised in a data breach
+- [BeenVerified](https://www.beenverified.com/) - Helps in searching compelling data, such as social profiles and photos, properties and assets, bankruptcy information and more
+- [Censys](https://censys.io/) - 
+- [Maltego](https://www.maltego.com/downloads/?utm_source=paterva.com&utm_medium=referral&utm_campaign=301) - Maltego is a software used for open-source intelligence and forensics, developed by Paterva. 
+- [theHarvester](https://github.com/laramies/theHarvester) - theHarvester is a tool for gathering e-mail accounts, subdomain names, virtual hosts, open ports/ banners, and employee names from different public sources (search engines, pgp key servers).
+- [Shodan](https://www.shodan.io/) - It is the world's first search engine for Internet-connected devices.
+- [Fierce](https://github.com/mschwager/fierce) - It is meant specifically to locate likely targets both inside and outside a corporate network.
+- [Unicornscan](https://github.com/dneufeld/unicornscan) - Unicornscan is an attempt at a User-land Distributed TCP/IP stack. It is intended to provide a researcher a superior interface for introducing a stimulus into and measuring a response from a TCP/IP enabled device or network.
+- [Recon-ng](https://tools.kali.org/information-gathering/recon-ng) - Recon-ng is a full-featured Web Reconnaissance framework written in Python. Complete with independent modules, database interaction, built in convenience.
+- [Nmap](https://nmap.org/) - NMAP is a free utility tool for network discovery and security auditing. Many systems and network administrators also find it useful for tasks such as network inventory, managing service upgrade schedules, and monitoring host or service uptime.
+
+#### Tutorials
+- [OSNIT](https://www.youtube.com/playlist?list=PLBf0hzazHTGPuUBocFZpDEkg-mKa8WO_z)
+- [Recon-ng](https://www.youtube.com/playlist?list=PLBf0hzazHTGOg9taK90uFjdcb8UgGfRKZ)
+- [Nmap](https://www.youtube.com/playlist?list=PLBf0hzazHTGM8V_3OEKhvCM9Xah3qDdIx)
+- [Information Gathering](https://www.youtube.com/playlist?list=PLBf0hzazHTGPx4_jgz6wOJoj4cijSv1wW)
 
