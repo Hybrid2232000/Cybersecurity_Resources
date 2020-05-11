@@ -58,11 +58,11 @@
 - [Breaking In to Information Security](https://www.elsevier.com/books/breaking-into-information-security/more/978-0-12-800783-9)
 
 #### Security Groups/Communities 
-- **AFCEA Chapters** - AFCEA is concerned with cyber security as it relates to defense, homeland security and intelligence communities. Chapters are spread throughout the world.
-- **CSA Chapters** - As CSA puts it, members are usually composed of a credible group of cloud security experts for the region. Chapters are located around the globe and must have a minimum of 20 CSA members.
-- **IEEE Chapter** - Focused on the advancement of technology, IEEE Technical Chapters contain members from one or more IEEE Societies/Technical Councils who share technical interests and geographical proximity. Chapter events include guest speakers, workshops, seminars and social functions.
-- **ISACA Local Chapters** - ISACA is one of the biggest networking organizations, with 200+ chapters worldwide. Chapters sponsor local educational seminars and workshops, conduct IT research projects and provide members with a number of leadership training opportunities.
-- **OWASP Chapters Program** - Unlike other programs which require membership, OWASP chapters are free, open to all and managed by a set of universal guidelines. 
+- [**AFCEA Chapters**](https://www.afcea.org/site/Chapters) - AFCEA is concerned with cyber security as it relates to defense, homeland security and intelligence communities. Chapters are spread throughout the world.
+- [**CSA Chapters**](https://cloudsecurityalliance.org/chapters/) - As CSA puts it, members are usually composed of a credible group of cloud security experts for the region. Chapters are located around the globe and must have a minimum of 20 CSA members.
+- [**IEEE Chapter**](https://www.ieee.org/communities/index.html) - Focused on the advancement of technology, IEEE Technical Chapters contain members from one or more IEEE Societies/Technical Councils who share technical interests and geographical proximity. Chapter events include guest speakers, workshops, seminars and social functions.
+- [**ISACA Local Chapters**](https://www.isaca.org/membership/browse-chapters#sort=relevancy) - ISACA is one of the biggest networking organizations, with 200+ chapters worldwide. Chapters sponsor local educational seminars and workshops, conduct IT research projects and provide members with a number of leadership training opportunities.
+- [**OWASP Chapters Program**](https://owasp.org/chapters/) - Unlike other programs which require membership, OWASP chapters are free, open to all and managed by a set of universal guidelines. 
 
 #### Conferences 
 - **Nullcon** - Founded in 2010, Nullcon provides a platform for exchanging information on the latest attack vectors, zero day vulnerabilities and unknown threats. Held annually in Delhi and Goa.
